@@ -1,4 +1,4 @@
-#!/home/umbilnm/python_ml/dwh_assistant/.venv/bin/python
+#!/home/umbilnm/python_ml/dwh_assistant/.venv/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys
